@@ -1,0 +1,30 @@
+html{
+  margin: 0;
+  padding: 0;
+  position:relative;
+  top: 10px;
+  left: 50px;
+  font: normal 80%/1.4 Georgia, serif;
+}
+
+.current{
+  background-color: #b3d1ff;
+  color: #fff;
+}
+
+.nav{
+  margin:0;
+  padding:0;
+  list-style-type: none;
+}
+.nav>li{
+  display: inline-block;
+}
+
+.nav-top{
+  font-size: 1.5rem;
+}
+
+.nav-bottom{
+  font-size: 0.5rem;
+}
